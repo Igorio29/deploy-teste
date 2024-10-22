@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": "https://back-end-e2ck.onrender.com",
-    },x
+    },
   },
 });
